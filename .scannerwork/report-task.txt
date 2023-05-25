@@ -1,0 +1,6 @@
+projectKey=tugasphp2_week1
+serverUrl=http://localhost:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://localhost:9000/dashboard?id=tugasphp2_week1
+ceTaskId=AYhRiwDyVqP_ahhZ7SoA
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYhRiwDyVqP_ahhZ7SoA
